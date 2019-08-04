@@ -1,5 +1,4 @@
-
-An exploration of the Pololu altimu-10 v4.
+# An exploration of the Pololu altimu-10 v4.
 
 The altitude/pressure readings are noisy, so I've applied a Kalman filter to smooth out the noise.
 
