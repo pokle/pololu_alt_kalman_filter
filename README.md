@@ -10,5 +10,8 @@ Depends on these Ardunio libraries:
 
 Open up the Serial monitor to view the filtered altitude
 
+## Before
 ![Without the filter](without-filter.png)
+
+## After
 ![With the filter](with-filter.png)
